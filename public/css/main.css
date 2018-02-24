@@ -1,0 +1,27 @@
+body {
+    font-family: verdana;
+}
+h4{
+    margin-left: 250px;
+}
+#result {
+    height: 200px;
+    width: 800px;
+    border: 1px solid #cc42bc;
+    padding: 10px;
+    box-shadow: 0 0 10px 0 #676767;
+    margin-bottom: 30px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+button {
+    font-size: 15px;
+    box-shadow: 0 0 10px 0 #676767;
+    /*position: absolute;*/
+    /*top: 240px;*/
+    /*left: 50%;*/
+}
+#butblock{
+    margin-left: 140px;
+}
